@@ -1,4 +1,4 @@
-# Basic GIT
+# Basics of GIT
 
 ## Linking an exiting project to a Git remote
 
